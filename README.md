@@ -2,6 +2,8 @@
 
 An advanced AI-powered web application for detecting plant diseases from leaf images using deep learning.
 
+🌐 **Live App:** https://plant-disease-predictor-sem-v.streamlit.app/
+
 ## Features
 
 - 🔍 Real-time disease detection for 15 different plant conditions
@@ -51,6 +53,10 @@ The application uses a Convolutional Neural Network (CNN) trained on thousands o
 ## Important Notes
 
 ⚠️ This tool is for preliminary assessment only. Always consult with agricultural experts for final diagnosis.
+
+## Contact
+
+📧 Email: nandakishoredevarashetti@gmail.com
 
 ## License
 
